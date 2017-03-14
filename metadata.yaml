@@ -1,5 +1,5 @@
 _repo: The-Metaphysical-Elements-of-Ethics_5684
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Abbott, Thomas Kingsmill
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '4915'
     url: http://www.gutenberg.org/2009/agents/4915
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Kingsmill_Abbott
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kant, Immanuel
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1426
     wikipedia: http://en.wikipedia.org/wiki/Immanuel_Kant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5684#The-Metaphysical-Elements-of-Ethics
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
